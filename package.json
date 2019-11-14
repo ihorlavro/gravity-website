@@ -1,0 +1,22 @@
+{
+  "name": "empty-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "clean": "rm dist/bundle.js",
+    "start": "parcel src/*.html",
+    "build-prod": "parcel build src/*.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "latest",
+    "gsap": "^3.0.1",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.23.3",
+    "splitting": "^1.0.6"
+  }
+}
