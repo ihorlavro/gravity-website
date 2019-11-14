@@ -273,6 +273,7 @@ section {
 
   &__bg-image {
     position: absolute;
+    z-index: -1;
     width: 50%;
     height: 100%;
     object-fit: cover;
