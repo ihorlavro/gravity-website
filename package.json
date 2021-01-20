@@ -14,7 +14,7 @@
   "devDependencies": {
     "@babel/core": "^7.7.2",
     "@babel/preset-env": "latest",
-    "gsap": "^3.0.1",
+    "gsap": "^3.6.0",
     "parcel-bundler": "^1.12.4",
     "sass": "^1.23.3",
     "splitting": "^1.0.6"
